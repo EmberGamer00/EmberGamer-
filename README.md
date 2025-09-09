@@ -1,5 +1,4 @@
-# Create README.md with full liquid-neon-futuristic content
-echo "# Welcome to EmberGamer's GitHub Profile
+Welcome to EmberGamer's GitHub Profile
 
 <p align='center'>
 <img src='https://readme-typing-svg.herokuapp.com?size=32&duration=4500&color=00FFFF&center=true&vCenter=true&width=650&lines=Minecraft+Gamer+%26+Content+Creator;Exploring+Glitches+%26+Creative+Builds;YouTuber+%7C+Blogger+%7C+Community+Builder;Always+Creating+New+Adventures' alt='Typing SVG'/>
@@ -63,9 +62,7 @@ echo "# Welcome to EmberGamer's GitHub Profile
 
 ---
 
-*Designed for a dark, neon-liquid, futuristic, animated GitHub profile by OfficialEmberGamer.*" > README.md
+
 
 # Add, commit, and push to GitHub
-git add README.md
-git commit -m "Add full liquid-neon-futuristic GitHub README"
-git push origin main
+
