@@ -22,11 +22,11 @@
 ## Platforms
 
 <p align="center">
-  [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com/@embergamer-13)
-  [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/ember_gamer)
-  [![Blogger](https://img.shields.io/badge/Blogger-Visit-orange?style=for-the-badge&logo=blogger)](https://embergamer.blogspot.com)
-  [![Quora](https://img.shields.io/badge/Quora-Profile-brown?style=for-the-badge&logo=quora)](https://www.quora.com/profile/EmberGamer)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Join-green?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbAtI4WFcow21yAtBS06)
+  <a href="https://youtube.com/@embergamer-13"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube"/></a>
+  <a href="https://www.instagram.com/ember_gamer"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram"/></a>
+  <a href="https://embergamer.blogspot.com"><img src="https://img.shields.io/badge/Blogger-Visit-orange?style=for-the-badge&logo=blogger"/></a>
+  <a href="https://www.quora.com/profile/EmberGamer"><img src="https://img.shields.io/badge/Quora-Profile-brown?style=for-the-badge&logo=quora"/></a>
+  <a href="https://whatsapp.com/channel/0029VbAtI4WFcow21yAtBS06"><img src="https://img.shields.io/badge/WhatsApp-Join-green?style=for-the-badge&logo=whatsapp"/></a>
 </p>
 
 ---
@@ -58,6 +58,9 @@
 <p align="center">
   <a href="https://youtube.com/@embergamer-13"><img src="https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube"/></a>
   <a href="https://www.instagram.com/ember_gamer"><img src="https://img.shields.io/badge/Follow-Instagram-pink?style=for-the-badge&logo=instagram"/></a>
+  <a href="https://embergamer.blogspot.com"><img src="https://img.shields.io/badge/Visit-Blogger-orange?style=for-the-badge&logo=blogger"/></a>
+  <a href="https://www.quora.com/profile/EmberGamer"><img src="https://img.shields.io/badge/Profile-Quora-brown?style=for-the-badge&logo=quora"/></a>
+  <a href="https://whatsapp.com/channel/0029VbAtI4WFcow21yAtBS06"><img src="https://img.shields.io/badge/Join-WhatsApp-green?style=for-the-badge&logo=whatsapp"/></a>
 </p>
 
 ---
